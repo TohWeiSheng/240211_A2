@@ -5,8 +5,6 @@
  */
 package com.uum.assignment2;
 
-import java.io.FileNotFoundException;
-import java.io.IOException;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
